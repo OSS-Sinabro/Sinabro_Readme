@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>2023 OSS-Sinabro</h1>
+  <h1>2023 OSS-Sinabro
+  
+  침수감지 CCTV를 통한 관제 시스템</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90829718/264743490-9a2c7c07-c8cd-44f4-9da0-483afa96dc60.jpg" width="150" />
 </p>
