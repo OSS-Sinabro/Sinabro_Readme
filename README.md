@@ -31,4 +31,3 @@
 [![썸네일](https://github.com/OSS-Sinabro/Sinabro_Readme/assets/90829718/c7bb1473-7708-4b18-9645-afa46e4c56e4)](https://youtu.be/-8Rl-fm9SdU?si=JQ4lKL_gWCzm6yM6)
 
 </div>
-
