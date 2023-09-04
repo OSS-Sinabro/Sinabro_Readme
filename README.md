@@ -9,7 +9,7 @@
 <br />
 
 ## ✔ Sinabro Project
-### "침수 감지 이미지 분류모델" 개발 및 이를 활용한 침수 관제 시스템을 제안하는 프로젝트.
+### "침수 감지 이미지 분류모델" 개발 및 이를 활용한 침수 관제 시스템을 제안하는 프로젝트
 
 <br />
 
@@ -36,6 +36,17 @@
 <p align="center">
   <img src="https://github.com/OSS-Sinabro/Sinabro_Readme/assets/90829718/310736cc-f33e-4a56-b004-f38d3dc962b3" width="600" />
 </p>
+
+<br />
+
+## 📌 주요 기능
+
+| **Function** | **Repository** |
+|:------------:|:--------------:|
+| DeepLearning | 🔗[**Sinabro_DeepLearning**](https://github.com/OSS-Sinabro/Sinabro_DeepLearning) |
+| Server       | 🔗[**Sinabro_Server**](https://github.com/OSS-Sinabro/Sinabro_Server) |
+| Raspberry Pi | 🔗[**Sinabro_Raspberrypi**](https://github.com/OSS-Sinabro/Sinabro_Raspberrypi) |
+
 
 <br />
 
