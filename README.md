@@ -32,6 +32,14 @@
 <br />
 <br />
 
+## 🔎 프로젝트 개략도
+<p align="center">
+  <img src="https://github.com/OSS-Sinabro/Sinabro_Readme/assets/90829718/310736cc-f33e-4a56-b004-f38d3dc962b3" width="600" />
+</p>
+
+<br />
+
+
 ## 🎥시연 영상
 
 > 🔗[**시연 영상**](https://youtu.be/-8Rl-fm9SdU?si=JQ4lKL_gWCzm6yM6)
